@@ -53,13 +53,6 @@ and more.
 
 <!-- To make a photocopier, simply photocopy a mirror. -->
 
-[D2Moddin] was the first service to bring DOTA 2 Custom Games to the general
-public during May to June 2014. After the demand demonstrated by the service,
-Valve released "DOTA Reborn" with custom modes and Source 2 engine.
-
-<!-- [D2Moddin]: http://paral.in/the-d2moddin-project/ -->
-[D2Moddin]: https://www.youtube.com/watch?v=BqJ1Z_uGBVY
-
 Interned at NASA/Jet Propulsion Laboratory during the summers of 2013-2017.
 Applied cell-phone processors to vision navigation for small flying robots for
 the [Mars Helicopter Ingenuity] team.
@@ -74,6 +67,13 @@ used to run all of Valve's DOTA 2 Open Qualifiers from 2015-2019.
 
 [FACEIT]: https://faceit.com
 [go-dota2]: https://github.com/paralin/go-dota2
+
+[D2Moddin] was the first service to bring DOTA 2 Custom Games to the general
+public during May to June 2014. After the demand demonstrated by the service,
+Valve released "DOTA Reborn" with custom modes and Source 2 engine.
+
+<!-- [D2Moddin]: http://paral.in/the-d2moddin-project/ -->
+[D2Moddin]: https://www.youtube.com/watch?v=BqJ1Z_uGBVY
 
 Other old archived projects:
 
