@@ -28,6 +28,8 @@ managing large-scale embedded linux, peer-to-peer, and robotics projects.
 [bifrost]: https://github.com/aperturerobotics/bifrost
 [starpc]: https://github.com/aperturerobotics/starpc
 
+**Current projects:**
+
 [SkiffOS] ([Arxiv]) is a lightweight & robust cross-compiled Linux distribution
 optimized for hosting containers. It produces an identical user experience
 across underlying compute hardware, and supports running other distributions
@@ -52,7 +54,7 @@ then streams changes to this query to a server for data on-demand.
 
 [rgraphql]: https://github.com/rgraphql/magellan
 
-**Past Projects:**
+**Past projects:**
 
 <!-- To make a photocopier, simply photocopy a mirror. -->
 
