@@ -13,10 +13,13 @@
 
 ### Hi, welcome to my GitHub profile 🍰
 
-2022: **Announcing [Bifrost]: cross-platform p2p networking engine written in
-Go.**
+**Most recent releases:**
 
-[Bifrost]: https://github.com/aperturerobotics/bifrost
+ - [starpc]: Protobuf streaming RPCs for TypeScript and Go.
+ - [bifrost]: configurable p2p networking engine written in Go.
+
+[bifrost]: https://github.com/aperturerobotics/bifrost
+[starpc]: https://github.com/aperturerobotics/starpc
 
 [Aperture Robotics] is a framework for decentralized software and real-time user
 interfaces which runs on any platform, including the web browser and embedded
@@ -33,13 +36,6 @@ inside Docker containers. Supports Raspberry Pi and more single-board computers.
 [SkiffOS]: https://github.com/skiffos/skiffos
 [Arxiv]: https://arxiv.org/pdf/2104.00048
 
-[rgraphql] is a version of GraphQL which delivers real-time updates to user
-interfaces by streaming changes over the network. The client merges together
-graphQL fragments from components on the page into a single session query. It
-then streams changes to this query to a server for data on-demand.
-
-[rgraphql]: https://github.com/rgraphql/magellan
-
 [Contributor] and [listed developer] for [Buildroot] (used in SkiffOS): created &
 maintain packages: batman-adv docker-cli containerd docker-engine docker-proxy
 go mosh rtl8821au runc tini fuse-overlayfs mbpfan tegratx2 nvidia-modprobe delve
@@ -48,6 +44,13 @@ and more.
 [Contributor]: https://patchwork.ozlabs.org/project/buildroot/list/?state=*&submitter=66856
 [Buildroot]: http://buildroot.org
 [listed developer]: https://github.com/buildroot/buildroot/blob/2021.11/DEVELOPERS#L510
+
+[rgraphql] is a version of GraphQL which delivers real-time updates to user
+interfaces by streaming changes over the network. The client merges together
+graphQL fragments from components on the page into a single session query. It
+then streams changes to this query to a server for data on-demand.
+
+[rgraphql]: https://github.com/rgraphql/magellan
 
 **Past Projects:**
 
