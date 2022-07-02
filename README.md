@@ -13,6 +13,13 @@
 
 ### Hi, welcome to my GitHub profile 🍰
 
+[Aperture Robotics] is a framework for decentralized software and real-time user
+interfaces which runs on any platform, including the web browser and embedded
+devices, with a single Go codebase. Streamlines the process of building and
+managing large-scale embedded linux, peer-to-peer, and robotics projects.
+
+[Aperture Robotics]: https://github.com/aperturerobotics
+
 **Most recent releases:**
 
  - [starpc]: Protobuf streaming RPCs for TypeScript and Go.
@@ -20,13 +27,6 @@
 
 [bifrost]: https://github.com/aperturerobotics/bifrost
 [starpc]: https://github.com/aperturerobotics/starpc
-
-[Aperture Robotics] is a framework for decentralized software and real-time user
-interfaces which runs on any platform, including the web browser and embedded
-devices, with a single Go codebase. Streamlines the process of building and
-managing large-scale embedded linux, peer-to-peer, and robotics projects.
-
-[Aperture Robotics]: https://github.com/aperturerobotics
 
 [SkiffOS] ([Arxiv]) is a lightweight & robust cross-compiled Linux distribution
 optimized for hosting containers. It produces an identical user experience
