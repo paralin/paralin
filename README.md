@@ -107,6 +107,7 @@ Other old archived projects:
  - [inca]: blockchain framework for Proof of Authority
  - [kvgossip]: gossip key/value store on top of Serf using RSA keys.
  - [matrixserver]: peer-to-peer networking library for C#
+ - [metric-stream]: stream of time-series data to the browser.
  - [mutate]: Go library for generating mutations in JSON.
  - [netproto]: abstract KCP and quic into a single api in Go
  - [obd-reporter]: report OBD data from cars to Prometheus
@@ -151,6 +152,7 @@ Other old archived projects:
 [inca]: https://github.com/paralin/inca
 [kvgossip]: https://github.com/paralin/kvgossip
 [matrixserver]: https://github.com/paralin/matrixserver
+[metric-stream]: https://github.com/paralin/metric-stream
 [mutate]: https://github.com/paralin/mutate
 [netproto]: https://github.com/paralin/netproto
 [obd-reporter]: https://github.com/paralin/obd-reporter
