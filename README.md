@@ -56,6 +56,15 @@ then streams changes to this query to a server for data on-demand.
 
 [rgraphql]: https://github.com/rgraphql/magellan
 
+**GitHub Stats:**
+
+<!-- 89% of magic tricks are not magic. Technically, they are sorcery. -->
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paralin&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>-->
+</p>
+
 **Past projects:**
 
 <!-- To make a photocopier, simply photocopy a mirror. -->
@@ -169,14 +178,5 @@ Other old archived projects:
 [quic-channel]: https://github.com/paralin/quic-channel
 [webleague]: https://github.com/paralin/webleagueweb
 [xbee-netdev]: https://github.com/paralin/xbee-netdev
-
-**GitHub Stats:**
-
-<!-- 89% of magic tricks are not magic. Technically, they are sorcery. -->
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paralin&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr" />
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>-->
-</p>
 
 <sub><sup>Note: special thanks to [Gapur](https://github.com/gapur) for the GitHub profile README.md template.</sup></sub>
