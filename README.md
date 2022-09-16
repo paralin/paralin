@@ -22,10 +22,12 @@ managing large-scale embedded linux, peer-to-peer, and robotics projects.
 
 **Most recent releases:**
 
+ - [CNS Flight Stack]: IEEE Paper for iROS and RA-L 2022
  - [starpc]: Protobuf streaming RPCs for TypeScript and Go.
  - [bifrost]: configurable p2p networking engine written in Go.
  - [protobuf-project]: code-gen based project structure for Protobuf.
 
+[CNS Flight Stack]: https://ieeexplore.ieee.org/document/9849131
 [bifrost]: https://github.com/aperturerobotics/bifrost
 [starpc]: https://github.com/aperturerobotics/starpc
 [protobuf-project]: https://github.com/aperturerobotics/protobuf-project
