@@ -63,7 +63,7 @@ then streams changes to this query to a server for data on-demand.
 <!-- 89% of magic tricks are not magic. Technically, they are sorcery. -->
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paralin&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paralin&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=en&cachebuster=1" />
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>-->
 </p>
 
