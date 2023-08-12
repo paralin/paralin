@@ -26,11 +26,13 @@ managing large-scale embedded linux, peer-to-peer, and robotics projects.
  - [starpc]: Protobuf streaming RPCs for TypeScript and Go.
  - [bifrost]: configurable p2p networking engine written in Go.
  - [protobuf-project]: code-gen based project structure for Protobuf.
+ - [util]: Concurrent data structures for Go.
 
 [CNS Flight Stack]: https://ieeexplore.ieee.org/document/9849131
 [bifrost]: https://github.com/aperturerobotics/bifrost
 [starpc]: https://github.com/aperturerobotics/starpc
 [protobuf-project]: https://github.com/aperturerobotics/protobuf-project
+[util]: https://github.com/aperturerobotics/util
 
 **Current projects:**
 
