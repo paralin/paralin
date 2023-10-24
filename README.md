@@ -13,10 +13,8 @@
 
 ### Hi, welcome to my GitHub profile 🍰
 
-[Aperture Robotics] is a framework for decentralized software and real-time user
-interfaces which runs on any platform, including the web browser and embedded
-devices, with a single Go codebase. Streamlines the process of building and
-managing large-scale embedded linux, peer-to-peer, and robotics projects.
+[Aperture Robotics] streamlines the process of building and
+managing cross-platform decentralized applications and systems.
 
 [Aperture Robotics]: https://github.com/aperturerobotics
 
