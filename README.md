@@ -92,7 +92,8 @@ Valve released "DOTA Reborn" with custom modes and Source 2 engine.
 <!-- [D2Moddin]: http://paral.in/the-d2moddin-project/ -->
 [D2Moddin]: https://www.youtube.com/watch?v=BqJ1Z_uGBVY
 
-Other old archived projects:
+<details>
+  <summary>Old archived projects</summary>
 
  - [AirNet]: gossip based p2p networking
  - [AwesomiumCE3]: rendering a web browser inside CryEngine to textures.
@@ -179,5 +180,7 @@ Other old archived projects:
 [quic-channel]: https://github.com/paralin/quic-channel
 [webleague]: https://github.com/paralin/webleagueweb
 [xbee-netdev]: https://github.com/paralin/xbee-netdev
+
+</details>
 
 <sub><sup>Note: special thanks to [Gapur](https://github.com/gapur) for the GitHub profile README.md template.</sup></sub>
