@@ -20,11 +20,11 @@ managing cross-platform decentralized applications and systems.
 
 **Most recent releases:**
 
+ - [bifrost]: configurable p2p networking engine written in Go.
  - [CNS Flight Stack]: IEEE Paper for iROS and RA-L 2022
  - [starpc]: Protobuf streaming RPCs for TypeScript and Go.
- - [bifrost]: configurable p2p networking engine written in Go.
  - [protobuf-project]: code-gen based project structure for Protobuf.
- - [util]: Concurrent data structures for Go.
+ - [util]: concurrent data structures and utils for Go.
 
 [CNS Flight Stack]: https://ieeexplore.ieee.org/document/9849131
 [bifrost]: https://github.com/aperturerobotics/bifrost
