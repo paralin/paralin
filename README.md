@@ -8,9 +8,6 @@
 [![Starred Badge](https://img.shields.io/badge/~5k-Starred-blue?style=flat-square&logo=github)](https://github.com/paralin/starred)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-~15k%20Rep-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/431369/christian-stewart)
 
-<!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://paral.in)-->
-<!--[![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/431369?style=flat-square)](https://stackoverflow.com/users/431369/christian-stewart)-->
-
 ### Hi, welcome to my GitHub profile 🍰
 
 [Aperture Robotics] streamlines the process of building and
