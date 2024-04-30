@@ -7,6 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/paralinq/)
 [![Starred Badge](https://img.shields.io/badge/~5k-Starred-blue?style=flat-square&logo=github)](https://github.com/paralin/starred)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-~15k%20Rep-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/431369/christian-stewart)
+[![Asciinema Badge](https://img.shields.io/badge/-Asciinema-d40000?style=flat-square&logo=asciinema&logoColor=white)](https://asciinema.org/~paralin)
 
 ### Hi, welcome to my GitHub profile 🍰
 
