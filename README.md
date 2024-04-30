@@ -10,23 +10,21 @@
 
 ### Hi, welcome to my GitHub profile 🍰
 
-[Aperture Robotics] streamlines the process of building and
-managing cross-platform decentralized applications and systems.
+[Aperture Robotics] is a cross-platform decentralized applications framework.
 
 [Aperture Robotics]: https://github.com/aperturerobotics
 
 **Most recent releases:**
 
- - [bifrost]: configurable p2p networking engine written in Go.
- - [CNS Flight Stack]: IEEE Paper for iROS and RA-L 2022
- - [starpc]: Protobuf streaming RPCs for TypeScript and Go.
- - [protobuf-project]: code-gen based project structure for Protobuf.
- - [util]: concurrent data structures and utils for Go.
+ - [protobuf-go-lite]: lightweight reflection-free Protobuf for Go. **new**
+ - [protobuf-es-lite]: lightweight Protobuf for TypeScript. **new**
+ - [starpc]: lightweight streaming Protobuf RPCs for TypeScript and Go.
+ - [bifrost]: configurable p2p networking engine for Go and TypeScript.
 
-[CNS Flight Stack]: https://ieeexplore.ieee.org/document/9849131
+[protobuf-es-lite]: https://github.com/aperturerobotics/protobuf-es-lite
+[protobuf-go-lite]: https://github.com/aperturerobotics/protobuf-go-lite
 [bifrost]: https://github.com/aperturerobotics/bifrost
 [starpc]: https://github.com/aperturerobotics/starpc
-[protobuf-project]: https://github.com/aperturerobotics/protobuf-project
 [util]: https://github.com/aperturerobotics/util
 
 **Current projects:**
@@ -35,9 +33,11 @@ managing cross-platform decentralized applications and systems.
 optimized for hosting containers. It produces an identical user experience
 across underlying compute hardware, and supports running other distributions
 inside Docker containers. Supports Raspberry Pi and more single-board computers.
+Read about how the [CNS Flight Stack] uses SkiffOS for reliable UAVs!
 
 [SkiffOS]: https://github.com/skiffos/skiffos
 [Arxiv]: https://arxiv.org/pdf/2104.00048
+[CNS Flight Stack]: https://ieeexplore.ieee.org/document/9849131
 
 [Contributor] and [listed developer] for [Buildroot] (used in SkiffOS): created &
 maintain packages: batman-adv docker-cli containerd docker-engine docker-proxy
@@ -47,13 +47,6 @@ and more.
 [Contributor]: https://patchwork.ozlabs.org/project/buildroot/list/?state=*&submitter=66856
 [Buildroot]: http://buildroot.org
 [listed developer]: https://github.com/buildroot/buildroot/blob/2021.11/DEVELOPERS#L510
-
-[rgraphql] is a version of GraphQL which delivers real-time updates to user
-interfaces by streaming changes over the network. The client merges together
-graphQL fragments from components on the page into a single session query. It
-then streams changes to this query to a server for data on-demand.
-
-[rgraphql]: https://github.com/rgraphql/magellan
 
 **GitHub Stats:**
 
@@ -81,6 +74,13 @@ used to run all of Valve's DOTA 2 Open Qualifiers from 2015-2019.
 
 [FACEIT]: https://faceit.com
 [go-dota2]: https://github.com/paralin/go-dota2
+
+[rgraphql] is a version of GraphQL which delivers real-time updates to user
+interfaces by streaming changes over the network. The client merges together
+graphQL fragments from components on the page into a single session query. It
+then streams changes to this query to a server for data on-demand.
+
+[rgraphql]: https://github.com/rgraphql/magellan
 
 [D2Moddin] was the first service to bring DOTA 2 Custom Games to the general
 public during May to June 2014. After the demand demonstrated by the service,
