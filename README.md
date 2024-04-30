@@ -2,11 +2,11 @@
 ![](./header.jpg)
 
 [![SkiffOS Discord](https://img.shields.io/discord/803825858599059487?label=SkiffOS%20Discord&style=flat-square)](https://discord.gg/EKVkdVmvwT)
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-~15k%20Rep-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/431369/christian-stewart)
+[![Starred Badge](https://img.shields.io/badge/~5k-Starred-blue?style=flat-square&logo=github)](https://github.com/paralin/starred)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/paralin)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/paralinq)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/paralinq/)
-[![Starred Badge](https://img.shields.io/badge/~5k-Starred-blue?style=flat-square&logo=github)](https://github.com/paralin/starred)
-[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-~15k%20Rep-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/431369/christian-stewart)
 [![Asciinema Badge](https://img.shields.io/badge/-Asciinema-d40000?style=flat-square&logo=asciinema&logoColor=white)](https://asciinema.org/~paralin)
 
 ### Hi, welcome to my GitHub profile 🍰
