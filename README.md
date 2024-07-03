@@ -1,5 +1,6 @@
-<!-- Oh, it's you. It's been a long time. How have you been? -->
-![](./header.jpg)
+---
+
+### Hi, welcome to my GitHub profile 🍰
 
 [![SkiffOS Discord](https://img.shields.io/discord/803825858599059487?label=SkiffOS%20Discord&style=flat-square)](https://discord.gg/EKVkdVmvwT)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-~15k%20Rep-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/431369/christian-stewart)
@@ -9,11 +10,20 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/paralinq/)
 [![Asciinema Badge](https://img.shields.io/badge/-Asciinema-d40000?style=flat-square&logo=asciinema&logoColor=white)](https://asciinema.org/~paralin)
 
-### Hi, welcome to my GitHub profile 🍰
+---
 
-[Aperture Robotics] is a cross-platform decentralized applications framework.
+<p align="center">
+<a href="https://github.com/aperturerobotics" target="_blank" rel="noopener noreferrer">
+  <img height="120" src="https://github.com/aperturerobotics/.github/blob/3baf7d875b181ba290c3f7aba9eb4db53f7db0b5/images/aperture-logo.png" alt="Aperture Robotics">
+</a>
+</p>
+
+[Aperture Robotics] is an open source focused organization building a
+next-generation development stack for cross-platform apps with Go, WebAssembly,
+and TypeScript and a lightweight Linux distribution called [SkiffOS].
 
 [Aperture Robotics]: https://github.com/aperturerobotics
+[SkiffOS]: https://github.com/skiffos/skiffos
 
 **Most recent releases:**
 
@@ -181,4 +191,4 @@ Valve released "DOTA Reborn" with custom modes and Source 2 engine.
 
 </details>
 
-<sub><sup>Note: special thanks to [Gapur](https://github.com/gapur) for the GitHub profile README.md template.</sup></sub>
+<!-- Note: special thanks to [Gapur](https://github.com/gapur) for the original GitHub profile inspiration. -->
