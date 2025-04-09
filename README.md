@@ -95,7 +95,7 @@ then streams changes to this query to a server for data on-demand.
 
 [D2Moddin] was the first service to bring DOTA 2 Custom Games to the general
 public during May to June 2014. After the demand demonstrated by the service,
-Valve released "DOTA Reborn" with custom modes and Source 2 engine.
+Valve released "DOTA Reborn" with the Source 2 engine.
 
 <!-- [D2Moddin]: http://paral.in/the-d2moddin-project/ -->
 [D2Moddin]: https://www.youtube.com/watch?v=BqJ1Z_uGBVY
