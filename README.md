@@ -20,7 +20,7 @@
 
 [Aperture Robotics] is an open source focused organization building a
 next-generation development stack for cross-platform apps with Go, WebAssembly,
-and TypeScript and a lightweight Linux distribution called [SkiffOS].
+and TypeScript and a lightweight Linux distribution [SkiffOS].
 
 [Aperture Robotics]: https://github.com/aperturerobotics
 [SkiffOS]: https://github.com/skiffos/skiffos
