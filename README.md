@@ -27,11 +27,13 @@ and TypeScript and a lightweight Linux distribution [SkiffOS].
 
 **Most recent releases:**
 
+ - [goscript]: compile Go to idiomatic TypeScript.
+ - [bifrost]: configurable p2p networking engine for Go and TypeScript.
+ - [starpc]: lightweight streaming Protobuf RPCs for TypeScript and Go.
  - [protobuf-go-lite]: lightweight reflection-free Protobuf for Go. **new**
  - [protobuf-es-lite]: lightweight Protobuf for TypeScript. **new**
- - [starpc]: lightweight streaming Protobuf RPCs for TypeScript and Go.
- - [bifrost]: configurable p2p networking engine for Go and TypeScript.
 
+[goscript]: https://github.com/paralin/goscript
 [protobuf-es-lite]: https://github.com/aperturerobotics/protobuf-es-lite
 [protobuf-go-lite]: https://github.com/aperturerobotics/protobuf-go-lite
 [bifrost]: https://github.com/aperturerobotics/bifrost
