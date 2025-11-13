@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/paralin)
 [![X](https://img.shields.io/twitter/follow/paralinq?label=%22%22)](https://twitter.com/paralinq)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/paralinq/)
-[![Asciinema Badge](https://img.shields.io/badge/-Asciinema-d40000?style=flat-square&logo=asciinema&logoColor=white)](https://asciinema.org/~paralin)
+<!-- [![Asciinema Badge](https://img.shields.io/badge/-Asciinema-d40000?style=flat-square&logo=asciinema&logoColor=white)](https://asciinema.org/~paralin) -->
 
 ---
 
