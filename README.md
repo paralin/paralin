@@ -29,16 +29,11 @@ and TypeScript and a lightweight Linux distribution [SkiffOS].
 
  - [goscript]: compile Go to idiomatic TypeScript.
  - [bifrost]: configurable p2p networking engine for Go and TypeScript.
- - [starpc]: lightweight streaming Protobuf RPCs for TypeScript and Go.
- - [protobuf-go-lite]: lightweight reflection-free Protobuf for Go. **new**
- - [protobuf-es-lite]: lightweight Protobuf for TypeScript. **new**
+ - [flex-layout]: interactive drag/drop layout manager for React.
 
 [goscript]: https://github.com/paralin/goscript
-[protobuf-es-lite]: https://github.com/aperturerobotics/protobuf-es-lite
-[protobuf-go-lite]: https://github.com/aperturerobotics/protobuf-go-lite
 [bifrost]: https://github.com/aperturerobotics/bifrost
-[starpc]: https://github.com/aperturerobotics/starpc
-[util]: https://github.com/aperturerobotics/util
+[flex-layout]: https://github.com/aperturerobotics/flex-layout
 
 **Current projects:**
 
@@ -60,6 +55,15 @@ and more.
 [Contributor]: https://patchwork.ozlabs.org/project/buildroot/list/?state=*&submitter=66856
 [Buildroot]: http://buildroot.org
 [listed developer]: https://github.com/buildroot/buildroot/blob/2021.11/DEVELOPERS#L510
+
+[starpc], [protobuf-go-lite], and [protobuf-es-lite] are lightweight
+reflection-free Protobuf and RPC implementations for optimized binary size and
+performance for WebAssembly (wasm), browsers, and embedded environments.
+
+[protobuf-es-lite]: https://github.com/aperturerobotics/protobuf-es-lite
+[protobuf-go-lite]: https://github.com/aperturerobotics/protobuf-go-lite
+[starpc]: https://github.com/aperturerobotics/starpc
+[util]: https://github.com/aperturerobotics/util
 
 **GitHub Stats:**
 
