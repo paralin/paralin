@@ -13,27 +13,32 @@
 ---
 
 <p align="center">
-<a href="https://github.com/aperturerobotics" target="_blank" rel="noopener noreferrer">
-  <img height="120" src="https://github.com/aperturerobotics/.github/blob/3baf7d875b181ba290c3f7aba9eb4db53f7db0b5/images/aperture-logo.png" alt="Aperture Robotics">
+<a href="https://github.com/s4wave" target="_blank" rel="noopener noreferrer">
+  <img height="120" src="https://github.com/s4wave/.github/blob/master/images/s4wave-github.png?raw=true" alt="Spacewave">
 </a>
 </p>
 
 [Aperture Robotics] is an open source focused organization building a
-next-generation development stack for cross-platform apps with Go, WebAssembly,
+[next-generation development stack] for cross-platform apps with Go, WebAssembly,
 and TypeScript and a lightweight Linux distribution [SkiffOS].
 
 [Aperture Robotics]: https://github.com/aperturerobotics
+[next-generation development stack]: https://github.com/s4wave
 [SkiffOS]: https://github.com/skiffos/skiffos
 
 **Most recent releases:**
 
- - [goscript]: compile Go to idiomatic TypeScript.
- - [bifrost]: configurable p2p networking engine for Go and TypeScript.
- - [flex-layout]: interactive drag/drop layout manager for React.
+- [ocpipe]: SDK for LLM pipelines with [OpenCode] and [Zod]. **new**
+- [goscript]: compile Go to idiomatic TypeScript.
+- [bifrost]: configurable p2p networking engine for Go and TypeScript.
+- [flex-layout]: interactive drag/drop layout manager for React.
 
 [goscript]: https://github.com/paralin/goscript
 [bifrost]: https://github.com/aperturerobotics/bifrost
 [flex-layout]: https://github.com/aperturerobotics/flex-layout
+[ocpipe]: https://github.com/s4wave/ocpipe
+[OpenCode]: https://github.com/sst/opencode
+[Zod]: https://zod.dev
 
 **Current projects:**
 
@@ -65,13 +70,15 @@ performance for WebAssembly (wasm), browsers, and embedded environments.
 [starpc]: https://github.com/aperturerobotics/starpc
 [util]: https://github.com/aperturerobotics/util
 
-**GitHub Stats:**
-
 <!-- 89% of magic tricks are not magic. Technically, they are sorcery. -->
+
+<!--
+**GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats-paralin.vercel.app/api?username=paralin&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=en&cachebuster=5" />
 </p>
+-->
 
 **Past projects:**
 
@@ -104,53 +111,54 @@ public during May to June 2014. After the demand demonstrated by the service,
 Valve released "DOTA Reborn" with the Source 2 engine.
 
 <!-- [D2Moddin]: http://paral.in/the-d2moddin-project/ -->
+
 [D2Moddin]: https://www.youtube.com/watch?v=BqJ1Z_uGBVY
 
 <details>
   <summary>Old archived projects</summary>
 
- - [AirNet]: gossip based p2p networking
- - [AwesomiumCE3]: rendering a web browser inside CryEngine to textures.
- - [D2Moddin]: the first DOTA 2 custom game modes platform & website.
- - [Dota2]: C# implementation of the DOTA2 game coordinator client.
- - [EagleEye]: an Arma 2 DayZ in-browser map of players & items
- - [EveFleet]: real-time UI for managing EVE Online fleets
- - [EveWaitlist]: real-time UI for managing EVE Online incursions
- - [Hackatron]: connect teams with questions at Hackathons.
- - [LivingPlanet]: hackathon project of a beautiful informational site.
- - [SubGames]: a site for Twitch streamers to host Dota lobbies w/ bots.
- - [charlie]: a dynamic networked module loader in C++
- - [diskutil]: Go library to access raw disks on windows
- - [evexmap]: a force-directed graph visualization of the EVE Online world.
- - [go-libp2p-grpc]: GRPC proxying over libp2p.
- - [go-p2pd]: a daemon for libp2p
- - [gogame]: cross-platform games written in Go.
- - [grpc-bus]: call GRPC services from the browser over WebSocket.
- - [historian-view-window-js]: remote-state-stream to a browser
- - [inca-go]: inca implementation in Go
- - [inca-js]: javascript implementation: [inca-counter-example-js]
- - [inca]: blockchain framework for Proof of Authority
- - [kvgossip]: gossip key/value store on top of Serf using RSA keys.
- - [matrixserver]: peer-to-peer networking library for C#
- - [metric-stream]: stream of time-series data to the browser.
- - [mutate]: Go library for generating mutations in JSON.
- - [netproto]: abstract KCP and quic into a single api in Go
- - [obd-reporter]: report OBD data from cars to Prometheus
- - [objectenc-js]: object encrypt for binary blobs in Js
- - [objectenc]: object encrypt for binary blobs in Go
- - [objectsig-js]: object signatures implemented in js
- - [objectsig]: object signatures for binary blobs in Go
- - [objstore-js]: object storage in js
- - [objstore]: object storage in Go
- - [p2p-storageref]: common storage ref to multiple locations
- - [pbobject-js]: js implementation of pbobject
- - [pbobject]: protobuf object wrapper and table decoder
- - [PlayLethalLeague]: neural network to play a real-time fighting game.
- - PlayLLBlaze: openAI gym for Lethal League Blaze
- - [pstream]: packet stream for Go
- - [quic-channel]: prototype of mesh networking with Quic channels
- - [webleague]: a DOTA 2 in-house league system (for FPL) with bots.
- - [xbee-netdev]: Linux TAP network interface over Xbee radios.
+- [AirNet]: gossip based p2p networking
+- [AwesomiumCE3]: rendering a web browser inside CryEngine to textures.
+- [D2Moddin]: the first DOTA 2 custom game modes platform & website.
+- [Dota2]: C# implementation of the DOTA2 game coordinator client.
+- [EagleEye]: an Arma 2 DayZ in-browser map of players & items
+- [EveFleet]: real-time UI for managing EVE Online fleets
+- [EveWaitlist]: real-time UI for managing EVE Online incursions
+- [Hackatron]: connect teams with questions at Hackathons.
+- [LivingPlanet]: hackathon project of a beautiful informational site.
+- [SubGames]: a site for Twitch streamers to host Dota lobbies w/ bots.
+- [charlie]: a dynamic networked module loader in C++
+- [diskutil]: Go library to access raw disks on windows
+- [evexmap]: a force-directed graph visualization of the EVE Online world.
+- [go-libp2p-grpc]: GRPC proxying over libp2p.
+- [go-p2pd]: a daemon for libp2p
+- [gogame]: cross-platform games written in Go.
+- [grpc-bus]: call GRPC services from the browser over WebSocket.
+- [historian-view-window-js]: remote-state-stream to a browser
+- [inca-go]: inca implementation in Go
+- [inca-js]: javascript implementation: [inca-counter-example-js]
+- [inca]: blockchain framework for Proof of Authority
+- [kvgossip]: gossip key/value store on top of Serf using RSA keys.
+- [matrixserver]: peer-to-peer networking library for C#
+- [metric-stream]: stream of time-series data to the browser.
+- [mutate]: Go library for generating mutations in JSON.
+- [netproto]: abstract KCP and quic into a single api in Go
+- [obd-reporter]: report OBD data from cars to Prometheus
+- [objectenc-js]: object encrypt for binary blobs in Js
+- [objectenc]: object encrypt for binary blobs in Go
+- [objectsig-js]: object signatures implemented in js
+- [objectsig]: object signatures for binary blobs in Go
+- [objstore-js]: object storage in js
+- [objstore]: object storage in Go
+- [p2p-storageref]: common storage ref to multiple locations
+- [pbobject-js]: js implementation of pbobject
+- [pbobject]: protobuf object wrapper and table decoder
+- [PlayLethalLeague]: neural network to play a real-time fighting game.
+- PlayLLBlaze: openAI gym for Lethal League Blaze
+- [pstream]: packet stream for Go
+- [quic-channel]: prototype of mesh networking with Quic channels
+- [webleague]: a DOTA 2 in-house league system (for FPL) with bots.
+- [xbee-netdev]: Linux TAP network interface over Xbee radios.
 
 [AirNet]: https://github.com/airnet/airnet/
 [AwesomiumCE3]: https://github.com/paralin/AwesomiumCE3
