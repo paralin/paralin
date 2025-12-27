@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://github.com/s4wave" target="_blank" rel="noopener noreferrer">
-  <img height="120" src="https://github.com/s4wave/.github/blob/master/images/s4wave-github.png?raw=true" alt="Spacewave">
+  <img height="120" src="https://github.com/s4wave/.github/blob/master/images/s4wave-github.png?raw=true" alt="spacewave">
 </a>
 </p>
 
