@@ -12,11 +12,12 @@
 
 ---
 
+<!---
 <p align="center">
 <a href="https://github.com/s4wave" target="_blank" rel="noopener noreferrer">
   <img height="120" src="https://github.com/s4wave/.github/blob/master/images/s4wave-github.png?raw=true" alt="spacewave">
 </a>
-</p>
+</p>--->
 
 [Aperture Robotics] is an open source focused organization building a
 [next-generation development stack] for cross-platform apps with Go, WebAssembly,
