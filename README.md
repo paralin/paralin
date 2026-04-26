@@ -12,12 +12,22 @@
 
 ---
 
-<!---
-<p align="center">
-<a href="https://github.com/s4wave" target="_blank" rel="noopener noreferrer">
-  <img height="120" src="https://github.com/s4wave/.github/blob/master/images/s4wave-github.png?raw=true" alt="spacewave">
-</a>
-</p>--->
+## 🚀 [Spacewave][spacewave]
+
+**Self-host anything in the browser.** Local-first apps with optional cloud
+sync, built on the Aperture Robotics stack.
+
+- 🌐 **Local-first** Apps run in the browser against an OPFS-backed object store
+- ☁️ **Optional cloud** Fast cross-device sync and backup on Cloudflare
+- 🦫 **Portable** Same Go code runs as WASM in the browser and natively as a CLI
+- 🧩 **Composable** ObjectTypes, plugins, and packfile-based content addressing
+
+[**Get Spacewave →**][spacewave] · [**Source →**][spacewave-code]
+
+[spacewave]: https://spacewave.app
+[spacewave-code]: https://github.com/s4wave/spacewave
+
+---
 
 [Aperture Robotics] is an open source focused organization building a
 [next-generation development stack] for cross-platform apps with Go, WebAssembly,
@@ -29,11 +39,16 @@ and TypeScript and a lightweight Linux distribution [SkiffOS].
 
 **Most recent releases:**
 
-- [ocpipe]: SDK for LLM pipelines with [OpenCode] and [Zod]. **new**
+- [Spacewave]: self-host anything in the browser, on Go + WASM + TypeScript. **new**
+- [QuickJS WASI Reactor][quickjs-wasi]: run [QuickJS-NG] in Go and TS via the WASI reactor model.
+- [ocpipe]: SDK for LLM pipelines with [OpenCode] and [Zod].
 - [goscript]: compile Go to idiomatic TypeScript.
 - [bifrost]: configurable p2p networking engine for Go and TypeScript.
 - [flex-layout]: interactive drag/drop layout manager for React.
 
+[Spacewave]: https://spacewave.app
+[quickjs-wasi]: https://github.com/aperturerobotics/js-quickjs-wasi-reactor
+[QuickJS-NG]: https://github.com/quickjs-ng/quickjs
 [goscript]: https://github.com/paralin/goscript
 [bifrost]: https://github.com/aperturerobotics/bifrost
 [flex-layout]: https://github.com/aperturerobotics/flex-layout
