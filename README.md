@@ -1,7 +1,7 @@
 # Hi, I'm Christian Stewart
 
 I'm the founder of [Aperture Robotics]. I build open-source software for
-distributed systems, embedded Linux, and collaborative computing.
+embedded Linux and local-first p2p computing.
 
 [LinkedIn](https://linkedin.com/in/paralin) · [X](https://twitter.com/paralinq) · [Stack Overflow](https://stackoverflow.com/users/431369/christian-stewart) · [Instagram](https://instagram.com/paralinq/) · [SkiffOS Discord](https://discord.gg/EKVkdVmvwT)
 
