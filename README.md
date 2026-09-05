@@ -1,52 +1,41 @@
----
+# Hi, I'm Christian Stewart
 
-### Hi, welcome to my GitHub profile 🍰
+I'm the founder of [Aperture Robotics]. I build open-source software for
+distributed systems, embedded Linux, and collaborative computing.
 
-[![SkiffOS Discord](https://img.shields.io/discord/803825858599059487?label=SkiffOS%20Discord&style=flat-square)](https://discord.gg/EKVkdVmvwT)
-[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-~15k%20Rep-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/431369/christian-stewart)
-[![Starred Badge](https://img.shields.io/badge/~5k-Starred-blue?style=flat-square&logo=github)](https://github.com/paralin/starred)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/paralin)
-[![X](https://img.shields.io/twitter/follow/paralinq?label=Follow)](https://twitter.com/paralinq)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/paralinq/)
-<!-- [![Asciinema Badge](https://img.shields.io/badge/-Asciinema-d40000?style=flat-square&logo=asciinema&logoColor=white)](https://asciinema.org/~paralin) -->
+[LinkedIn](https://linkedin.com/in/paralin) · [X](https://twitter.com/paralinq) · [Stack Overflow](https://stackoverflow.com/users/431369/christian-stewart) · [Instagram](https://instagram.com/paralinq/) · [SkiffOS Discord](https://discord.gg/EKVkdVmvwT)
 
----
+## Spacewave
 
-## 🚀 [Spacewave][spacewave]
+**A shared workspace for people, agents, and their tools.**
 
-**Self-host anything in the browser.** Local-first apps with optional cloud
-sync, built on the Aperture Robotics stack.
+I'm building Spacewave to bring files, conversations, applications, and
+computers into shared Spaces. The goal is to make it easy to work together,
+follow what an agent is doing, and continue across devices.
 
-- 🌐 **Local-first** Apps run in the browser against an OPFS-backed object store
-- ☁️ **Optional cloud** Fast cross-device sync and backup on Cloudflare
-- 🦫 **Portable** Same Go code runs as WASM in the browser and natively as a CLI
-- 🧩 **Composable** ObjectTypes, plugins, and packfile-based content addressing
+Spacewave is in active development. Its foundations combine local storage,
+peer-to-peer networking, and plugins, with components built in Go,
+TypeScript, and WebAssembly.
 
-[**Get Spacewave →**][spacewave] · [**Source →**][spacewave-code]
+[Explore Spacewave][spacewave] · [Browse the source][spacewave-code]
 
+[Aperture Robotics]: https://github.com/aperturerobotics
 [spacewave]: https://spacewave.app
 [spacewave-code]: https://github.com/s4wave/spacewave
 
----
+## Selected projects
 
-[Aperture Robotics] is an open source focused organization building a
-[next-generation development stack] for cross-platform apps with Go, WebAssembly,
-and TypeScript and a lightweight Linux distribution [SkiffOS].
-
-[Aperture Robotics]: https://github.com/aperturerobotics
-[next-generation development stack]: https://github.com/s4wave
-[SkiffOS]: https://github.com/skiffos/skiffos
-
-**Most recent releases:**
-
-- [Spacewave]: self-host anything in the browser, on Go + WASM + TypeScript. **new**
-- [QuickJS WASI Reactor][quickjs-wasi]: run [QuickJS-NG] in Go and TS via the WASI reactor model.
+- [SkiffOS]: a lightweight Linux distribution for running containers across different hardware, including Raspberry Pi and other single-board computers. Read the [paper][arxiv] and its use in the [CNS Flight Stack].
+- [QuickJS WASI Reactor][quickjs-wasi]: run [QuickJS-NG] in Go and TypeScript through the WASI reactor model.
 - [ocpipe]: SDK for LLM pipelines with [OpenCode] and [Zod].
-- [goscript]: compile Go to idiomatic TypeScript.
-- [bifrost]: configurable p2p networking engine for Go and TypeScript.
-- [flex-layout]: interactive drag/drop layout manager for React.
+- [GoScript][goscript]: compile Go to TypeScript.
+- [Bifrost][bifrost]: configurable peer-to-peer networking for Go and TypeScript.
+- [flex-layout]: interactive drag-and-drop layouts for React.
+- [StaRPC][starpc], [protobuf-go-lite], and [protobuf-es-lite]: lightweight, reflection-free Protobuf and RPC implementations for browsers, WebAssembly, and embedded systems.
 
-[Spacewave]: https://spacewave.app
+[SkiffOS]: https://github.com/skiffos/skiffos
+[arxiv]: https://arxiv.org/pdf/2104.00048
+[CNS Flight Stack]: https://ieeexplore.ieee.org/document/9849131
 [quickjs-wasi]: https://github.com/aperturerobotics/js-quickjs-wasi-reactor
 [QuickJS-NG]: https://github.com/quickjs-ng/quickjs
 [goscript]: https://github.com/paralin/goscript
@@ -55,79 +44,40 @@ and TypeScript and a lightweight Linux distribution [SkiffOS].
 [ocpipe]: https://github.com/s4wave/ocpipe
 [OpenCode]: https://github.com/sst/opencode
 [Zod]: https://zod.dev
-
-**Current projects:**
-
-[SkiffOS] ([Arxiv]) is a lightweight & robust cross-compiled Linux distribution
-optimized for hosting containers. It produces an identical user experience
-across underlying compute hardware, and supports running other distributions
-inside Docker containers. Supports Raspberry Pi and more single-board computers.
-Read about how the [CNS Flight Stack] uses SkiffOS for reliable UAVs!
-
-[SkiffOS]: https://github.com/skiffos/skiffos
-[Arxiv]: https://arxiv.org/pdf/2104.00048
-[CNS Flight Stack]: https://ieeexplore.ieee.org/document/9849131
-
-[Contributor] and [listed developer] for [Buildroot] (used in SkiffOS): created &
-maintain packages: batman-adv docker-cli containerd docker-engine docker-proxy
-go mosh rtl8821au runc tini fuse-overlayfs mbpfan tegratx2 nvidia-modprobe delve
-and more.
-
-[Contributor]: https://patchwork.ozlabs.org/project/buildroot/list/?state=*&submitter=66856
-[Buildroot]: http://buildroot.org
-[listed developer]: https://github.com/buildroot/buildroot/blob/2021.11/DEVELOPERS#L510
-
-[starpc], [protobuf-go-lite], and [protobuf-es-lite] are lightweight
-reflection-free Protobuf and RPC implementations for optimized binary size and
-performance for WebAssembly (wasm), browsers, and embedded environments.
-
 [protobuf-es-lite]: https://github.com/aperturerobotics/protobuf-es-lite
 [protobuf-go-lite]: https://github.com/aperturerobotics/protobuf-go-lite
 [starpc]: https://github.com/aperturerobotics/starpc
-[util]: https://github.com/aperturerobotics/util
 
-<!-- 89% of magic tricks are not magic. Technically, they are sorcery. -->
+## Background
 
-<!--
-**GitHub Stats:**
+**Buildroot.** I've [contributed][contributor] packages for container runtimes,
+Go development, networking, and hardware support to [Buildroot], which SkiffOS
+uses to build its Linux systems.
 
-<p>
-  <img height="180em" src="https://github-readme-stats-paralin.vercel.app/api?username=paralin&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=en&cachebuster=5" />
-</p>
--->
+**NASA / Jet Propulsion Laboratory.** I interned during the summers of
+2013-2017, applying cell-phone processors to visual navigation for small flying
+robots on the [Mars Helicopter Ingenuity] team. [Read the story][ingenuity-story].
 
-**Past projects:**
+**FACEIT.** I built matchmaking infrastructure and algorithms, WebSocket
+messaging, and the [go-dota2] bot network at [FACEIT]. I also created the FPro
+in-house system, which later became the FACEIT Pro League (FPL).
 
-<!-- To make a photocopier, simply photocopy a mirror. -->
-
-Interned at NASA/Jet Propulsion Laboratory during the summers of 2013-2017.
-Applied cell-phone processors to vision navigation for small flying robots for
-the [Mars Helicopter Ingenuity] team.
-
-[Worked]: https://github.com/readme/featured/nasa-ingenuity-helicopter
+[contributor]: https://patchwork.ozlabs.org/project/buildroot/list/?state=*&submitter=66856
+[Buildroot]: https://buildroot.org
+[ingenuity-story]: https://github.com/readme/featured/nasa-ingenuity-helicopter
 [Mars Helicopter Ingenuity]: https://mars.nasa.gov/technology/helicopter/
-
-At [FACEIT], I built the matchmaking infrastructure and algorithms, edge
-messaging (WebSocket), and the [go-dota2] bot network. Originally created the
-FPro in-house system which later became the FACEIT Pro League (FPL). FACEIT was
-used to run all of Valve's DOTA 2 Open Qualifiers from 2015-2019.
-
 [FACEIT]: https://faceit.com
 [go-dota2]: https://github.com/paralin/go-dota2
 
-[rgraphql] is a version of GraphQL which delivers real-time updates to user
-interfaces by streaming changes over the network. The client merges together
-graphQL fragments from components on the page into a single session query. It
-then streams changes to this query to a server for data on-demand.
+## Earlier work
+
+[rgraphql] streams changes to GraphQL queries so user interfaces can stay up to
+date. The client combines component queries into one session query.
+
+[D2Moddin] brought Dota 2 custom games to the public in May-June 2014, before
+Valve released Dota 2 Reborn with the Source 2 engine.
 
 [rgraphql]: https://github.com/rgraphql/magellan
-
-[D2Moddin] was the first service to bring DOTA 2 Custom Games to the general
-public during May to June 2014. After the demand demonstrated by the service,
-Valve released "DOTA Reborn" with the Source 2 engine.
-
-<!-- [D2Moddin]: http://paral.in/the-d2moddin-project/ -->
-
 [D2Moddin]: https://www.youtube.com/watch?v=BqJ1Z_uGBVY
 
 <details>
@@ -135,7 +85,7 @@ Valve released "DOTA Reborn" with the Source 2 engine.
 
 - [AirNet]: gossip based p2p networking
 - [AwesomiumCE3]: rendering a web browser inside CryEngine to textures.
-- [D2Moddin]: the first DOTA 2 custom game modes platform & website.
+- [D2Moddin source][d2moddin-code]: the first DOTA 2 custom game modes platform & website.
 - [Dota2]: C# implementation of the DOTA2 game coordinator client.
 - [EagleEye]: an Arma 2 DayZ in-browser map of players & items
 - [EveFleet]: real-time UI for managing EVE Online fleets
@@ -178,7 +128,7 @@ Valve released "DOTA Reborn" with the Source 2 engine.
 
 [AirNet]: https://github.com/airnet/airnet/
 [AwesomiumCE3]: https://github.com/paralin/AwesomiumCE3
-[D2Moddin]: https://github.com/paralin/D2Moddin
+[d2moddin-code]: https://github.com/paralin/D2Moddin
 [Dota2]: https://github.com/paralin/Dota2
 [EagleEye]: https://github.com/paralin/eagleeye
 [EveFleet]: https://github.com/paralin/evefleet
