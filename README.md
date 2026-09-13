@@ -7,15 +7,15 @@ embedded Linux and local-first p2p computing.
 
 ## Spacewave
 
-**A shared workspace for people, agents, and their tools.**
+**Peer-to-peer self-hosted cloud with effortless custom apps.**
 
 I'm building Spacewave to bring files, conversations, applications, and
-computers into shared Spaces. The goal is to make it easy to work together,
-follow what an agent is doing, and continue across devices.
+computers into shared multiplayer peer-to-peer Spaces.
 
-Spacewave is in active development. Its foundations combine local storage,
-peer-to-peer networking, and plugins, with components built in Go,
-TypeScript, and WebAssembly.
+The goal is to bring everything you do on a computer into a single 
+multiplayer world you can share across all your machines and with
+your friends and teammates. Stored anywhere you want, communicating
+over any networking infrastructure of your choice.
 
 [Explore Spacewave][spacewave] · [Browse the source][spacewave-code]
 
