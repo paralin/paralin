@@ -26,7 +26,12 @@ over any networking infrastructure of your choice.
 ## Selected projects
 
 - [SkiffOS]: a lightweight Linux distribution for running containers across different hardware, including Raspberry Pi and other single-board computers. Read the [paper][arxiv] and its use in the [CNS Flight Stack].
-- [QuickJS WASI Reactor][quickjs-wasi]: run [QuickJS-NG] in Go and TypeScript through the WASI reactor model.
+- [Modlock][modlock]: a native C++23 modding framework for [Deadlock], with typed engine access and a versioned plugin ABI for game servers and clients.
+- [Modlock Tools][modlock-sdk]: reproducible, hash-verified Deadlock authoring tools (Hammer, ModelDoc, and the resource compiler) assembled from Valve's own downloads.
+- [QuickJS WASI Reactor][modlock]: https://github.com/paralin/modlock
+[Deadlock]: https://store.steampowered.com/app/1422450/Deadlock/
+[modlock-sdk]: https://github.com/paralin/modlock-sdk
+[quickjs-wasi]: run [QuickJS-NG] in Go and TypeScript through the WASI reactor model.
 - [ocpipe]: SDK for LLM pipelines with [OpenCode] and [Zod].
 - [GoScript][goscript]: compile Go to TypeScript.
 - [Bifrost][bifrost]: configurable peer-to-peer networking for Go and TypeScript.
